@@ -40,7 +40,7 @@
 ## Deployment Methods
 ---
 1.  ***Click [`FORK`](https://github.com/jamesxtreme/miles-qr/fork) and `Star ⭐ Repository` if you get help from repo.***
-2.  ***Deploy on [`REPLIT`](https://replit.com/github/SuhailTechInfo/web-qr).***
+2.  ***Deploy on [`REPLIT`](https://replit.com/github/jamesxtreme/Miles-qr).***
 3. ***Deploy on [`RENDER`](https://dashboard.render.com/login).***
 ```
 RENDER PROCESS:
